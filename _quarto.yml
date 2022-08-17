@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "quarto-fish-size"
+  title: "FishSize Data Explorer"
   navbar:
     left:
       - href: index.qmd
